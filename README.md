@@ -1,4 +1,3 @@
-# Jack O'Connor | December 21, 2020
 ## Tensorflow MNIST Visualizer
 
 
