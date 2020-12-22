@@ -5,6 +5,7 @@
 Small python project using pygame to visualize a TF Sequential model trained using the MNIST dataset
 
 To activete this project, run the command
+
     sudo python3 ./mnist_visualizer.py
 
 
